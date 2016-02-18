@@ -1,2 +1,2 @@
 # yii2first
-#this is my first yii2 project 
+#this is my first yii2 project, i will do my best.
